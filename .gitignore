@@ -6,4 +6,4 @@ target
 *.log
 .cache-main
 .cache-tests
-
+.springBeans
