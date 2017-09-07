@@ -15,6 +15,13 @@ public class Dept {
 	int deptno;
 	String dname;
 	String loc;
+
+	public void print1() {
+		System.out.println("###"+toString());
+	}
+	public void print2() {
+		System.out.println("###"+toString());
+	}
 //	public int getDeptno() {
 //		return deptno;
 //	}
